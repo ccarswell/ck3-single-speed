@@ -1128,7 +1128,7 @@ icon = {
 								size = { 34 18 }
 
 								alwaystransparent = "[EqualTo_int32(GetCurrentGameSpeed, '(int32)1')]"
-								onclick = "[SetGameSpeed('(int32)0')]"
+								onclick = "[SetGameSpeed('(int32)2')]"
 								tooltip = "CHANGE_SPEED_TOOLTIP_1"
 								using = tooltip_ne
 
@@ -1167,7 +1167,7 @@ icon = {
 								size = { 34 18 }
 
 								alwaystransparent = "[EqualTo_int32(GetCurrentGameSpeed, '(int32)2')]"
-								onclick = "[SetGameSpeed('(int32)1')]"
+								onclick = "[SetGameSpeed('(int32)2')]"
 								tooltip = "CHANGE_SPEED_TOOLTIP_2"
 								using = tooltip_ne
 
@@ -1245,7 +1245,7 @@ icon = {
 								size = { 34 18 }
 
 								alwaystransparent = "[EqualTo_int32(GetCurrentGameSpeed, '(int32)4')]"
-								onclick = "[SetGameSpeed('(int32)3')]"
+								onclick = "[SetGameSpeed('(int32)2')]"
 								tooltip = "CHANGE_SPEED_TOOLTIP_4"
 								using = tooltip_ne
 
@@ -1284,7 +1284,7 @@ icon = {
 								size = { 34 18 }
 
 								alwaystransparent = "[EqualTo_int32(GetCurrentGameSpeed, '(int32)5')]"
-								onclick = "[SetGameSpeed('(int32)4')]"
+								onclick = "[SetGameSpeed('(int32)2')]"
 								tooltip = "CHANGE_SPEED_TOOLTIP_5"
 								using = tooltip_ne
 
